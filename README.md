@@ -9,7 +9,7 @@
 ## Установка
 
 1. На сервере в каталоге **/bitrix/modules/** создаём каталог **mandarinbank.mandarinbank**
-2. Распаковываем папку репозитория **.last_version**, копируем две папки (**install** и **lang**) на сервер в каталог **/bitrix/modules/mandarinbank.mandarinbank/**
+2. Распаковываем папку репозитория **.last_version**, копируем две папки (**install** и **lang**) и файл **include.php** на сервер в каталог **/bitrix/modules/mandarinbank.mandarinbank/**
 3. В административной части сайта, переходим в раздел `Marketplace` > `Установленные решения`
 4. Находим строчку `mandarinbank.mandarinbank` > `Установить`
 5. В административной части сайта, переходим в раздел `Магазин` > `Настройки` > `Платежные системы`
